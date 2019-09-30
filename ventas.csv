@@ -1,13 +1,13 @@
-ID,SECTOR,SEP2019,SEP2018,SEPNORMAL
+ID,SECTOR,PORCENTAJE
 1,Diseño,0.7
-2,Artesania,4.4,0.0,0.9
-3,Fotografía,18.0,3.0,5.7
-4,Audiovisual,0.4,0.8,2.0
-5,Arquitectura,0.0,0.6,S/I
-6,Educación e Investigación Cultural,12.2,45.0,81.6
-7,Transversal,82.5,198.5,369.2
-8,Música,66.6,120.6,296.4
-9,Artes Visuales,598.7,813.3,852.3
-10,Artes Escénicas,137.8,288.4,565.1
-11,Radio,560.6,449.3,868.3
-12,Patrimonio,579.0,547.9,899.6
+2,Artesania,0.7
+3,Fotografía,1.2
+4,Audiovisual,1.2
+5,Arquitectura,2.2
+6,Educación e Investigación Cultural,2.5
+7,Transversal,0.6
+8,Música,0.6
+9,Artes Visuales,0.5
+10,Artes Escénicas,0.5
+11,Radio,0.5
+12,Patrimonio,0.2
